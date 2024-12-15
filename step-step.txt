@@ -1,0 +1,30 @@
+pertama kita akan membuat migration untuk user
+    php spark make:migration CreateUsersTabel
+
+kedua bikin model
+
+ketiga bikin controller
+nah disini bikin tampilan dulu ke login
+
+ke routes dulu 
+
+keempat bikin view
+
+nah sekarang kita coppy codingan tampilan login yang di tempalet 
+
+nah sekarang tampilan udah ada tinggal ke logika loginnya saja oke
+
+nah sekarang sudah bisa login tinggal bikin register oke
+
+oh iya kolom gender belum di biki lupa. nah iya bener lupa kwkwkwk
+
+nah sekarang tinggal push ke github dulu. bikin fitur login beres
+
+nah sekrang bikin dulu tampilan buat register
+
+nah sekarang view registenya udah beres tinggal ke logika registernya saja oke
+sekarang fitur register sudah beres tinggal bikin fitur kelola user oke sekarang tinggal pus aja ke gith buh oke
+
+nah sekarang bikin tampilan dashboard dan templating oke
+
+sekarang copy tampilan di template dashboardnya saja oke
